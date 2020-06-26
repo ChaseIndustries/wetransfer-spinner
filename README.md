@@ -1,2 +1,15 @@
 # wetransfer-spinner
-Created with CodeSandbox
+
+## Directions
+
+### To stop the spinning
+
+Click the button
+
+### To start the spinning
+
+Click the button again
+
+## Installation
+
+`npm install && npm start`
