@@ -13,3 +13,7 @@ Click the button again
 ## Installation
 
 `npm install && npm start`
+
+## Demo
+
+See here: [https://codesandbox.io/s/quirky-bird-ubsxd?file=/README.md]('https://codesandbox.io/s/quirky-bird-ubsxd')
