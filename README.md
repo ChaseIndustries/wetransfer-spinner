@@ -16,4 +16,4 @@ Click the button again
 
 ## Demo
 
-See here: [https://codesandbox.io/s/quirky-bird-ubsxd](https://codesandbox.io/s/quirky-bird-ubsxd)
+See here: [https://codesandbox.io/s/github/ChaseIndustries/wetransfer-spinner](https://codesandbox.io/s/github/ChaseIndustries/wetransfer-spinner)
